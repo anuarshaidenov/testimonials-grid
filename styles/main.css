@@ -105,6 +105,9 @@ img {
 
 .testimonial--primary {
   background-color: #7541c8;
+  background-image: url(../images/bg-pattern-quotation.svg);
+  background-repeat: no-repeat;
+  background-position: 80% 0;
 }
 
 .testimonial--secondary {
