@@ -35,6 +35,12 @@ img {
   background-color: #ecf2f8;
 }
 
+@media only screen and (max-width: 800px) {
+  .main-container {
+    padding: 5%;
+  }
+}
+
 .text-primary {
   font-size: 1.5rem;
 }

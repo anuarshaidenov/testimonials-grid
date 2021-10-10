@@ -58,4 +58,8 @@ img {
   min-height: 100vh;
   padding: 1rem;
   background-color: $color-light-grayish-blue;
+
+  @media only screen and (max-width: $media-mid) {
+    padding: 5%;
+  }
 }
