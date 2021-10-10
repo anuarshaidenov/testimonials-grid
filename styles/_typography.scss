@@ -1,0 +1,16 @@
+.text-primary {
+  font-size: $font-text-primary;
+
+  &--light {
+    color: $color-white;
+  }
+}
+
+.text-secondary {
+  color: rgba($color-white, 0.7);
+  font-size: $font-text-secondary;
+
+  &--dark {
+    color: rgba($color-very-dark-grayish-blue, 0.7);
+  }
+}
